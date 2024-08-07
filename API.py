@@ -2,7 +2,6 @@ from flask import Flask, request, jsonify
 
 app = Flask(__name__)
 
-# Simulated database of tokens
 tokens = {}
 
 @app.route('/api/login', methods=['POST'])
