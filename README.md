@@ -1,11 +1,8 @@
+In order to run an application that interacts with your machines, you need to build a virtual server and you need to run a script that operates accordingly with the server. Link to Tech Doc For further instructions: https://docs.google.com/document/d/1oB1vrfxNitKfdkYra2Xb_UXyGIiOvczy85KLAneIZkc/
 
-This application automates miner operations, ensuring each miner runs in a specific mode based on the time of day. 
-I provide an overview of how this application functions, its features, and setup instructions.
+This application (Luxor Chaellenge.py) automates miner operations, ensuring each miner runs in a specific mode based on the time of day. 
 
-The control application is an advanced tool that schedules different operating modes for a fleet of miners based on a predefined time schedule. 
-This time-based scheduling allows miners to switch between different operational modes, such as overclocking, normal operation, underclocking, and curtailing.
-
-In order to run an application that interacts with your machines, you need to build a virtual server and you need to run a script that operates accordingly with the server. 
+This time-based scheduling allows miners to switch between different operational modes, such as overclocking, normal operation, underclocking, and curtailing. 
 
 Automated commands to be implemented:
 #Overclock: From midnight to 6:00 AM, miners operate at maximum capacity, utilizing off-peak hours to maximize performance.
@@ -15,6 +12,7 @@ Automated commands to be implemented:
 
 Prerequisites:
 Install the latest version of python or version that is compatible with your OS
+Don't forget to ensure the proper installations have been implemented
 Type "pip install requests" in the terminal
 type in "pip install flask" in the terminal
 
