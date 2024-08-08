@@ -12,15 +12,15 @@ In order to run an application that interacts with your machines, you need to bu
 #Underclock: From noon to 6:00 PM, miners reduce power consumption, aligning with higher daytime electricity rates.
 #Curtail: From 6:00 PM to midnight, miners enter curtail mode to conserve energy during peak demand times.
 
-# Prerequisites
-# Install the latest version of python
-# in "pip install requests" 
-# type in "pip install flask"
+Prerequisites
+Install the latest version of python
+in "pip install requests" 
+type in "pip install flask"
 
 a couple of notes I'd like to emphasize: 
 
-# Make sure your Flask server is running and reachable. 
-# Once confirmed, run your control script (Luxor Challenge.py) and observe the outputs.
-# Always make sure your syntax is clean.
-# Use 'impoprt argparse' to test your arguments within the script. Will ensure automation works.
-# This application was built in the VS code IDE
+Make sure your Flask server is running and reachable. 
+Once confirmed, run your control script (Luxor Challenge.py) and observe the outputs.
+Always make sure your syntax is clean.
+Use 'impoprt argparse' to test your arguments within the script. Will ensure automation works.
+This application was built in the VS code IDE
