@@ -1,8 +1,8 @@
 In order to run an application that interacts with your machines, you need to 
 
-1. Build a virtual server and
+1. Build a virtual server(API.PY)
    
-2. You need to run a script that operates accordingly with the server.
+2. Run a script(Luxor Challenge.py) that operates accordingly with the server.
 
 Link to Tech Doc For further instructions: https://docs.google.com/document/d/1oB1vrfxNitKfdkYra2Xb_UXyGIiOvczy85KLAneIZkc/
 
