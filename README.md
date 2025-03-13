@@ -6,7 +6,7 @@ In order to run an application that interacts with your machines, you need to
 
 Link to Tech Doc For further instructions: https://docs.google.com/document/d/1oB1vrfxNitKfdkYra2Xb_UXyGIiOvczy85KLAneIZkc/
 
-This application (controlapplication.pypreviously, "LuxorChallenge.py") automates miner operations, ensuring each miner runs in a specific mode based on the time of day. 
+This application (controlapplication.py - previously, "LuxorChallenge.py") automates miner operations, ensuring each miner runs in a specific mode based on the time of day. 
 
 This time-based scheduling allows miners to switch between different operational modes, such as overclocking, normal operation, underclocking, and curtailing. 
 
