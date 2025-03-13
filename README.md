@@ -31,7 +31,7 @@ type in "pip install flask" in the terminal
 
 Make sure your Flask server is running and reachable. 
 
-Once confirmed, run your control script (Luxor Challenge.py) and observe the outputs.
+Once confirmed, run your control script (controlapplication.py) and observe the outputs.
 
 Always make sure your syntax is clean.
 
